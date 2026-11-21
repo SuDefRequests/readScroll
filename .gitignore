@@ -1,0 +1,14 @@
+# Python environments / bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded models (auto-fetched at first run; Google's model files)
+*.task
+*.task.part
+
+# OS / editor noise
+.DS_Store
+*.swp
+.idea/
+.vscode/
